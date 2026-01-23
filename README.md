@@ -1,2 +1,11 @@
-# Intelligence-Architect
-Exploring the math and logic behind intelligent agents. Includes implementation-heavy problems in ML, NLP, and Computer Vision.
+# 🤖 AI & Machine Learning Workspace
+
+This repository contains implementations of classic AI algorithms, neural network architectures, and heuristic search problems.
+
+### 🧠 Project Areas
+* **Classical AI:** Pathfinding (A*), Minimax, and Constraint Satisfaction.
+* **Machine Learning:** Regression, Clustering, and Scikit-Learn practices.
+* **Deep Learning:** PyTorch/TensorFlow implementations of CNNs and Transformers.
+
+### 📊 How to Use
+I recommend using **Jupyter Notebooks** (located in the `/notebooks` folder) to see the step-by-step logic and data visualizations.
