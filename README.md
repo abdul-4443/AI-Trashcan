@@ -12,4 +12,5 @@ I recommend using **Jupyter Notebooks** (located in the `/notebooks` folder) to 
 ---
 ### 🔗 Other Pillars
 Check out my other core CS repositories:
-[Operating Systems](link-to-os) | [Artificial Intelligence](link-to-ai) | [Databases](link-to-db)
+[Operating Systems](https://github.com/abdul-4443/OS-Internals-Practice) | [Databases](https://github.com/abdul-4443/Query-Mastery)
+
