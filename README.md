@@ -1,16 +1,11 @@
-# 🤖 AI & Machine Learning Workspace
+#  AI & Machine Learning
 
-This repository contains implementations of classic AI algorithms, neural network architectures, and heuristic search problems.
+This repo contains implementations of some basic AI algorithms, and heuristic search problems.
 
-### 🧠 Project Areas
-* **Classical AI:** Pathfinding (A*), Minimax, and Constraint Satisfaction.
+###  Project Areas
+* **Classical AI:** Pathfinding and Minimax.
 * **Machine Learning:** Regression, Clustering, and Scikit-Learn practices.
-* **Deep Learning:** PyTorch/TensorFlow implementations of CNNs and Transformers.
-
-### 📊 How to Use
-I recommend using **Jupyter Notebooks** (located in the `/notebooks` folder) to see the step-by-step logic and data visualizations.
 ---
-### 🔗 Other Pillars
+### 🔗 Other Practice
 Check out my other core CS repositories:
 [Operating Systems](https://github.com/abdul-4443/OS-Internals-Practice) | [Databases](https://github.com/abdul-4443/Query-Mastery)
-
